@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eman
+# Hi 👋, I'm Halia
 
 💻 Frontend Developer (React, Next.js, Tailwind)  
 🚀 Building projects like HealthStake & VIAB  
